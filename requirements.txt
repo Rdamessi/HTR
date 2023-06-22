@@ -1,0 +1,8 @@
+gradio
+matplotlib
+numpy
+onnxruntime
+opencv_contrib_python
+path.py
+scikit_learn
+setuptools
